@@ -1,0 +1,11 @@
+.gato{
+    position: absolute;
+    top: 250px;
+    right:1200px;
+}
+
+.dog{
+    position: absolute;
+    top: 150px;
+    right:30px; 
+}

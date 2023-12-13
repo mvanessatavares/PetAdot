@@ -1,0 +1,33 @@
+.post_container{
+  text-align: center;
+}
+.post_container h3 {
+  margin-bottom: 0.2em;
+}
+
+.post_container .tag {
+  text-align: center;
+
+}
+
+.post_container img{
+  width: 900px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.tag p {
+  margin-right: 1em;
+  text-align: center;
+  
+  
+}
+
+.tag span {
+  font-weight: bold;
+  text-align: center;
+
+  
+}
+
+
